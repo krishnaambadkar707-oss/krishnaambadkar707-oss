@@ -5,7 +5,7 @@ B.Tech student specializing in Artificial Intelligence & Data Science, building 
 
 <p align="center">
   <a href="https://krishna-portfolio-1-neon.vercel.app">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_View_My_Portfolio-000000?style=for-the-badge" alt="View My Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/krishna-ambadkar-918955359">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
