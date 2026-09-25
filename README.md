@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krishnaambadkar707-oss/krishnaambadkar707-oss/main/krishna-banner.svg?v=3" alt="Krishna Sunil Ambadkar — AI & Data Science | AI/ML Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/krishnaambadkar707-oss/krishnaambadkar707-oss/main/krishna-banner.svg?v=4" alt="Krishna Sunil Ambadkar — AI & Data Science | AI/ML Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -17,18 +17,19 @@
     <td width="35%" align="center" valign="top">
       <br />
       <a href="https://github.com/krishnaambadkar707-oss">
-        <img src="https://raw.githubusercontent.com/krishnaambadkar707-oss/krishnaambadkar707-oss/main/krishna-lanyard.svg?v=3" alt="Krishna Ambadkar AI ID Badge" width="100%" />
+        <img src="https://raw.githubusercontent.com/krishnaambadkar707-oss/krishnaambadkar707-oss/main/krishna-lanyard.svg?v=4" alt="Krishna Ambadkar AI/ML Engineer ID Badge" width="100%" />
       </a>
       <br /><br />
       <img src="https://komarev.com/ghpvc/?username=krishnaambadkar707-oss&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     </td>
     <td width="65%" valign="top">
-      <h3>🚀 Hello world! I'm Krishna.</h3>
+      <h3>🚀 Hello world! I'm Krishna Sunil Ambadkar.</h3>
       <p>
-        I'm an <b>AI & Data Science | AI/ML Engineer</b> based in 📍 <b>Badnera | Amravati | Maharashtra | India</b>. Passionate about turning cutting-edge research into production-grade AI systems, my work centers on <b>Generative AI</b>, <b>Retrieval-Augmented Generation (RAG)</b>, <b>Computer Vision</b>, and <b>Multimodal AI Companions</b>.
+        I'm an <b>AI & Data Science | AI/ML Engineer</b> based in 📍 <b>Badnera | Amravati | Maharashtra | India</b>. I specialize in building production-grade <b>Generative AI</b>, <b>Retrieval-Augmented Generation (RAG)</b>, <b>Computer Vision</b>, and <b>Multimodal AI Companions</b>.
       </p>
       <ul>
-        <li>🔭 <b>Current Focus:</b> Enterprise RAG pipelines & multi-agent AI assistants.</li>
+        <li>📍 <b>Location:</b> Badnera | Amravati | Maharashtra | India</li>
+        <li>🔭 <b>Current Focus:</b> Enterprise RAG knowledge bases & autonomous multi-agent AI systems.</li>
         <li>🌱 <b>Learning & Researching:</b> LLM fine-tuning, quantization (vLLM, Ollama), & spatial AI.</li>
         <li>💡 <b>Core Expertise:</b> Deep Learning, Vector Search, Computer Vision, FastAPI, React.</li>
         <li>💬 <b>Ask Me About:</b> RAG architectures, MediaPipe gesture tracking, & AI voice agents.</li>
