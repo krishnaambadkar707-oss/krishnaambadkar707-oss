@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Profile Banner Image -->
-  <img src="1000099473.png" width="300" style="border-radius: 20px;" alt="Krishna Sunil Ambadkar"/>
+  <img src="profile.jpeg" width="300" style="border-radius: 20px;" alt="Krishna Sunil Ambadkar"/>
 
   # 🪪 Krishna Sunil Ambadkar
 
