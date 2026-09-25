@@ -1,117 +1,220 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/krishnaambadkar707-oss/krishnaambadkar707-oss/main/krishna-banner.svg?v=5" alt="Krishna Sunil Ambadkar — AI & Data Science | AI/ML Engineer" width="100%">
+
+# 👋 Hi, I'm Krishna Ambadkar
+
+### 🤖 AI & Data Science | AI/ML Engineer | GenAI Developer
+
+<img src="./assets/profile.png" width="280" alt="Krishna Ambadkar Anime Avatar">
+
+<p>
+Building intelligent applications with <b>AI, Machine Learning, GenAI, RAG, Python & FastAPI</b>
+</p>
+
+<p>
+<a href="https://github.com/krishnaambadkar707-oss">
+<img src="https://img.shields.io/badge/GitHub-krishnaambadkar707--oss-181717?style=for-the-badge&logo=github">
+</a>
+<a href="https://www.linkedin.com/in/krishna-ambadkar-918955359">
+<img src="https://img.shields.io/badge/LinkedIn-Krishna%20Ambadkar-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:krishnaambadkar707@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail">
+</a>
+</p>
+
 </div>
 
-<br>
+---
 
-<table align="center">
-  <tbody>
-    <tr>
-      <td width="38%" align="center" valign="middle">
-        <a href="https://github.com/krishnaambadkar707-oss">
-          <img src="https://raw.githubusercontent.com/krishnaambadkar707-oss/krishnaambadkar707-oss/main/krishna-lanyard.svg?v=5" alt="Krishna Ambadkar ID badge" width="330" style="max-width: 100%;">
-        </a>
-      </td>
-      <td width="62%" valign="middle">
-        <h3>🤖 My AI / GenAI Builds</h3>
-        <table>
-          <thead>
-            <tr>
-              <th align="left">🧠 Project</th>
-              <th align="center">💻 Tech</th>
-              <th align="center">🚀 Status</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td align="left"><a href="#">🔍 Enterprise RAG Knowledge Assistant</a></td>
-              <td align="center"><code>Python</code> <code>FastAPI</code> <code>Vector DB</code></td>
-              <td align="center">⚡ Active</td>
-            </tr>
-            <tr>
-              <td align="left"><a href="#">🤟 HANA — AI Voice & ISL Companion</a></td>
-              <td align="center"><code>Python</code> <code>MediaPipe</code> <code>OpenCV</code></td>
-              <td align="center">⚡ Active</td>
-            </tr>
-            <tr>
-              <td align="left"><a href="#">💬 KUMARI — AI Virtual Companion</a></td>
-              <td align="center"><code>Python</code> <code>Gemini</code> <code>OpenAI</code></td>
-              <td align="center">⚡ Active</td>
-            </tr>
-            <tr>
-              <td align="left"><a href="#">🚦 Nagpur Traffic AI — Risk Heatmap</a></td>
-              <td align="center"><code>Python</code> <code>React</code> <code>ML</code></td>
-              <td align="center">🟢 Deployed</td>
-            </tr>
-            <tr>
-              <td align="left"><a href="#">🎧 AIVOA — Complaint Management</a></td>
-              <td align="center"><code>FastAPI</code> <code>React</code> <code>NLP</code></td>
-              <td align="center">🟢 Deployed</td>
-            </tr>
-          </tbody>
-        </table>
-        <br>
-        <div>
-          <blockquote>
-            <p>💗 <i>"I don't watch data, I model it."</i></p>
-          </blockquote>
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
+## 🧠 About Me
 
-<br>
+I'm **Krishna Sunil Ambadkar**, a B.Tech student specializing in **Artificial Intelligence & Data Science**.
+
+I build practical AI-powered applications across **Machine Learning, Generative AI, RAG systems, backend APIs, data analytics, computer vision and interactive full-stack applications**.
+
+Currently exploring how intelligent systems can be transformed into reliable, useful and deployable applications.
+
+- 🎓 B.Tech — Artificial Intelligence & Data Science
+- 🤖 AI / ML / GenAI Developer
+- 🧠 Interested in RAG, LLM applications & intelligent systems
+- 🐍 Python enthusiast
+- ⚡ FastAPI & REST API development
+- 📊 Data Analysis & Visualization
+- 🚀 12 projects built, including 6 deployed applications
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / ML / GenAI
+
+`Scikit-learn` `Prompt Engineering` `RAG` `LLM APIs` `Embeddings` `Vector Similarity Retrieval`
+
+### 💻 Programming
+
+`Python` `SQL` `C++` `R` `JavaScript` `HTML` `CSS`
+
+### ⚙️ Backend & APIs
+
+`FastAPI` `REST APIs` `Pydantic` `SQLAlchemy`
+
+### 🎨 Frontend
+
+`React` `Vite` `Three.js` `Web Speech API`
+
+### 📊 Data & Visualization
+
+`NumPy` `Pandas` `Matplotlib` `MySQL` `Power BI` `MS Excel`
+
+### 👁️ Computer Vision
+
+`OpenCV` `MediaPipe Hands`
+
+### 🔧 Developer Tools
+
+`Git` `GitHub` `VS Code`
+
+---
+
+# 🚀 My AI / GenAI Builds
+
+| 🧠 Project | 💻 Technology | 🚀 Status |
+|---|---|---|
+| 🔍 **Enterprise RAG Knowledge Assistant** | Python • FastAPI • RAG • Embeddings | ⚡ Active |
+| 🤟 **HANA — AI Voice & ISL Learning Companion** | Python • MediaPipe • OpenCV | ⚡ Active |
+| 💬 **KUMARI — AI Virtual Companion** | Python • Gemini • OpenAI | ⚡ Active |
+| 🚦 **Nagpur Traffic AI — Risk Heatmap** | React • Python • AI/ML | 🟢 Deployed |
+| 🎧 **AIVOA — AI Customer Complaint Management** | FastAPI • React • NLP | 🟢 Deployed |
+| 🏠 **House Price Prediction API** | FastAPI • Scikit-learn • Random Forest | ⚡ Active |
+| 💰 **Personal Finance Analyzer with Prediction** | Python • NumPy • Pandas • Matplotlib | 🟢 Deployed |
+| ❤️ **ECG Analyzer** | Python • SciPy • Signal Processing | 🟢 Deployed |
+| 📱 **Social Media Behavior Analyzer** | Python • Pandas • Data Analysis | 🟢 Deployed |
+| 🎵 **Audio Signal Processor** | Python • NumPy • Wave | 🟢 Deployed |
+| 🎬 **Movie Recommendation Analytics System** | R • Statistics • Visualization | ⚡ Active |
+| 📁 **Smart File Organizer + Search Engine** | Python • OOP • File Handling | ⚡ Active |
+
+---
+
+# ⭐ Featured Projects
+
+### 🔍 Enterprise RAG Knowledge Assistant
+
+A full-stack document Q&A system using document parsing, overlapping chunking, embeddings, vector similarity retrieval and grounded LLM generation with source citations.
+
+**Features:** JWT authentication, role-based access, conversation history, collection filtering, document management and automated RAG evaluation.
+
+---
+
+### 🤟 HANA — AI Voice & ISL Learning Companion
+
+An interactive Indian Sign Language learning platform featuring a 2D avatar, A–Z/numbers/phrases lessons, voice/text interaction and webcam-based hand-gesture recognition.
+
+**Features:** Real-time landmarks, gesture validation, quizzes, progress tracking, streaks, achievement badges and certificate generation.
+
+---
+
+### 💬 KUMARI — AI-Powered Personalized Virtual Companion
+
+An interactive AI companion with customizable persona, real-time conversation, voice input/output, mood-aware responses and persistent user memory.
+
+**Technology:** Gemini, OpenAI, LLM prompting, memory injection and conversation tracking.
+
+---
+
+### 🚦 Nagpur Traffic AI
+
+AI-powered traffic risk assessment and police deployment decision-support platform.
+
+Includes:
+
+- 🗺️ Interactive traffic-risk heatmaps
+- 📍 High-risk location ranking
+- 🚔 Police personnel allocation
+- 🔄 Dynamic redeployment simulation
+- ⚠️ Unmanned high-risk zone detection
+- 💡 Explainable recommendations
+- 📊 Baseline vs recommended deployment
+- 👥 Police Command Center
+- 🚗 Citizen traffic-risk awareness & reporting
+
+**Status:** 🟢 Deployed
+
+---
+
+# 🏆 Hackathon
+
+## Manthan 4 Yuwa – Vikasit Nagpur | 2026
+
+### 🚦 Nagpur Traffic AI — Risk Heatmap & Police Deployment Decision Support
+
+**Role:** Full-Stack Developer
+
+Built collaboratively as a traffic-risk assessment and police deployment decision-support solution with a citizen-facing traffic awareness interface.
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-  <h3>📊 GitHub Stats & Graphs</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=krishnaambadkar707-oss&show_icons=true&hide_border=true&rank_icon=github" height="170">
 
-  <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnaambadkar707-oss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaambadkar707-oss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
-  
-  <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaambadkar707-oss&layout=compact&hide_border=true" height="170">
 
-  <img src="https://streak-stats.demolab.com?user=krishnaambadkar707-oss&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak" />
-  
-  <br><br>
+</div>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnaambadkar707-oss&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution Graph" width="95%" />
-  
-  <br><br>
+---
 
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnaambadkar707-oss&theme=radical&no-frame=true&margin-w=10" alt="Trophies" width="95%" />
-  
-  <br><br>
+## 📈 Contribution Graph
 
-  <h3>🐍 Watch the snake eat my contributions</h3>
-  
-  <img src="https://raw.githubusercontent.com/krishnaambadkar707-oss/krishnaambadkar707-oss/output/github-snake.svg" alt="Contribution Snake" />
-  
-  <br><br>
+<div align="center">
 
-  <h3>📫 Let's Connect</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnaambadkar707-oss&hide_border=true" width="95%">
 
-  <p>
-    <a href="mailto:krishnaambadkar707@gmail.com">
-      <img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/krishnaambadkar707-oss">
-      <img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com/in/krishna-ambadkar-918955359">
-      <img src="https://img.shields.io/badge/LinkedIn-ff7eb6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+</div>
 
-  <br><br>
+---
 
-  <img src="https://komarev.com/ghpvc/?username=krishnaambadkar707-oss&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+## 🐍 Watch the Snake Eat My Contributions
 
-  <br><br>
+<div align="center">
 
-  <p><i>⭐️ Always learning, always building.</i> 🚀</p>
+<img src="https://raw.githubusercontent.com/krishnaambadkar707-oss/krishnaambadkar707-oss/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+### 💼 LinkedIn
+
+<a href="https://www.linkedin.com/in/krishna-ambadkar-918955359">
+linkedin.com/in/krishna-ambadkar-918955359
+</a>
+
+### 💻 GitHub
+
+<a href="https://github.com/krishnaambadkar707-oss">
+github.com/krishnaambadkar707-oss
+</a>
+
+### 📧 Email
+
+<a href="mailto:krishnaambadkar707@gmail.com">
+krishnaambadkar707@gmail.com
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤖 Building with AI. Learning every day. Creating what's next.
+
+⭐ **Always learning, always building.** 🚀
 
 </div>
