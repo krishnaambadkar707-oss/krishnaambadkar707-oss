@@ -4,7 +4,7 @@
 
 ### 🤖 AI & Data Science | AI/ML Engineer | GenAI Developer
 
-<img src="./assets/profile.png" width="280" alt="Krishna Ambadkar Anime Avatar">
+<img src="profile.jpeg" width="280" alt="Krishna Ambadkar Anime Avatar">
 
 <p>
 Building intelligent applications with <b>AI, Machine Learning, GenAI, RAG, Python & FastAPI</b>
