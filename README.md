@@ -9,11 +9,10 @@
 
 <h1>Krishna Ambadkar <span>💜</span></h1>
 
-<h3>⌘ AI / ML / GenAI Engineer</h3>
+<h3>AI & Data Science / AI & Machine Learning Engineer</h3>
 
 <blockquote>
-<b>I build intelligent systems,<br>
-turn ideas into real applications,<br>
+<b>B.Tech student specializing in Artificial Intelligence & Data Science,<br> building practical AI, Generative AI,<br> Machine Learning, RAG, backend API,<br> data analytics, and full-stack applications.,<br>
 and keep learning every day.</b>
 </blockquote>
 
