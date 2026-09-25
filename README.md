@@ -153,38 +153,6 @@ Built collaboratively as a traffic-risk assessment and police deployment decisio
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=krishnaambadkar707-oss&show_icons=true&hide_border=true&rank_icon=github" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaambadkar707-oss&layout=compact&hide_border=true" height="170">
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnaambadkar707-oss&hide_border=true" width="95%">
-
-</div>
-
----
-
-## 🐍 Watch the Snake Eat My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/krishnaambadkar707-oss/krishnaambadkar707-oss/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
-
-</div>
-
----
-
 # 📫 Let's Connect
 
 <div align="center">
