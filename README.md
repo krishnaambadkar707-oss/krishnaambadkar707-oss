@@ -174,16 +174,6 @@ and keep learning every day.</b>
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions
-
-<div align="center">
-
-<img src="./assets/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="95%">
-
-</div>
-
----
-
 ## 🏆 Hackathon
 
 ### 🚦 Manthan 4 Yuwa – Vikasit Nagpur · 2026
