@@ -41,7 +41,7 @@ and keep learning every day.</b>
 
 <td width="38%" align="center" valign="middle">
 
-<img src="profile.png" width="390" alt="Krishna Ambadkar anime profile artwork">
+<img src="profile.jpeg" width="390" alt="Krishna Ambadkar anime profile artwork">
 
 <br><br>
 
@@ -59,7 +59,7 @@ and keep learning every day.</b>
 <tr>
 <td width="34%" align="center">
 
-<img src="profile.png" width="240" alt="Krishna profile artwork">
+<img src="profile.jpeg" width="240" alt="Krishna profile artwork">
 
 <br><br>
 
