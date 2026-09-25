@@ -41,7 +41,7 @@ and keep learning every day.</b>
 
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/profile.png" width="390" alt="Krishna Ambadkar anime profile artwork">
+<img src="profile.png" width="390" alt="Krishna Ambadkar anime profile artwork">
 
 <br><br>
 
@@ -59,7 +59,7 @@ and keep learning every day.</b>
 <tr>
 <td width="34%" align="center">
 
-<img src="./assets/profile.png" width="240" alt="Krishna profile artwork">
+<img src="profile.png" width="240" alt="Krishna profile artwork">
 
 <br><br>
 
@@ -78,7 +78,7 @@ and keep learning every day.</b>
 
 | ✦ Project | 🧪 Tech | 🚀 |
 |---|---|---|
-| 🔍 [Enterprise RAG Knowledge Assistant](https://github.com/krishnaambadkar707-oss) | RAG · Embeddings · LLM | 🟣 |
+| 🔍 Enterprise RAG Knowledge Assistant | RAG · Embeddings · LLM | 🟣 |
 | 🤟 HANA — AI Voice & ISL Learning Companion | MediaPipe · OpenCV | 🟣 |
 | 💬 KUMARI — AI Virtual Companion | Gemini · OpenAI · Memory | 🟣 |
 | 🚦 Nagpur Traffic AI | React · AI/ML | 🟢 |
@@ -242,6 +242,10 @@ Built collaboratively with:
 
 <a href="mailto:krishnaambadkar707@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://krishna-portfolio-1-neon.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-EA4335?style=for-the-badge&logo=portfolio&logoColor=white">
 </a>
 
 <br><br>
