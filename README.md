@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="profile.svg" alt="Krishna Sunil Ambadkar - AI and Data Science, GenAI and ML engineering" width="100%">
+</p>
 
+<p align="center">
+  <a href="https://github.com/krishnaambadkar707-oss">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/krishna-ambadkar-918955359">LinkedIn</a> ·
+  <a href="mailto:krishnaambadkar707@gmail.com">Email</a>
+</p>
 
 ---
 
