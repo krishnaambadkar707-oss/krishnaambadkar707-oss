@@ -181,18 +181,6 @@ and keep learning every day.</b>
 
 **Role:** Full-Stack Developer
 
-Built collaboratively with:
-
-- 🗺️ Traffic-risk scoring and interactive heatmaps
-- 📍 High-risk location ranking
-- 🚔 Police personnel allocation
-- 🔄 Dynamic redeployment simulation
-- ⚠️ Unmanned high-risk zone detection
-- 💡 Explainable recommendations
-- 📊 Baseline vs recommended deployment
-- 👮 Police Command Center
-- 🚗 Citizen traffic-risk awareness and reporting
-
 ---
 
 ## 🧩 What I Work With
