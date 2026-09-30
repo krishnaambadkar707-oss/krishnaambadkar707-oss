@@ -34,8 +34,8 @@
 <!-- Left column -->
 <text x="198" y="93" class="m" font-size="10.7"><tspan fill="#8be0a8">krishna@frontend-developer:~$</tspan> <tspan fill="#ffffff" class="b">cat README.md</tspan></text>
 <text x="198" y="132" class="m b" font-size="20" fill="#ffffff">Hi, I'm 👋</text>
-<text x="200" y="203" font-family="Inter, 'Segoe Script', 'Brush Script MT', cursive" font-size="39" fill="#ff5fb0" filter="url(#neon)">Krishna Sunil Ambadkar</text>
-<text x="200" y="203" font-family="Inter, 'Segoe Script', 'Brush Script MT', cursive" font-size="39" fill="#ffd0ea">Krishna Sunil Ambadkar</text>
+<text x="200" y="203" font-family="Inter, 'Segoe Script', 'Brush Script MT', cursive" font-size="30" fill="#ff5fb0" filter="url(#neon)">Krishna Sunil Ambadkar</text>
+<text x="200" y="203" font-family="Inter, 'Segoe Script', 'Brush Script MT', cursive" font-size="30" fill="#ffd0ea">Krishna Sunil Ambadkar</text>
 <text x="200" y="243" class="m" font-size="14.3" fill="#e2b8ff">AI &amp; Data Science | GenAI / ML Engineering</text>
 <path d="M566 140 Q567.76 146.24 574 148 Q567.76 149.76 566 156 Q564.24 149.76 558 148 Q564.24 146.24 566 140Z" fill="#ffffff" opacity="0.95"/>
 
