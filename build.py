@@ -10,7 +10,7 @@ from pathlib import Path
 
 root = Path(__file__).parent / "assets"
 tpl = (root / "profile.template.svg").read_text(encoding="utf-8")
-avatar = next((p for p in (root / "avatar.png", root / "avatar.jpg", root / "avatar.jpeg", root / "avatar.webp") if p.exists()), None)
+avatar = next((p for p in (root / "profile.png", root / "profile.jpg", root / "profile.jpeg", root / "profile.webp") if p.exists()), None)
 
 if avatar is None:
     out = tpl
