@@ -73,10 +73,6 @@
 
 <img src="https://streak-stats.demolab.com?user=krishnaambadkar707-oss&theme=transparent&hide_border=true&ring=FF9EDB&fire=FF9EDB&currStreakLabel=FF9EDB&sideLabels=E8E3F0&dates=AAA4B5&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%">
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnaambadkar707-oss&bg_color=0D0B1A&color=E8E3F0&line=FF9EDB&point=FFFFFF&area=true&hide_border=true" width="95%">
-
 </div>
 
 ---
