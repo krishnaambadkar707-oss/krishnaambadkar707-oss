@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/krishnaambadkar707-oss">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/krishna-ambadkar-918955359">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/krishna-ambadkar">LinkedIn</a> ·
   <a href="mailto:krishnaambadkar707@gmail.com">Email</a> ·
   <a href="https://krishna-portfolio-1-neon.vercel.app/">Portfolio</a>
 </p>
@@ -168,7 +168,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/krishna-ambadkar-918955359">
+<a href="https://www.linkedin.com/in/krishna-ambadkar">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
