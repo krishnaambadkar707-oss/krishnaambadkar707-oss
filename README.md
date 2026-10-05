@@ -36,8 +36,8 @@
 
 | ✦ Project | 🧪 Tech | 🚀 |
 |---|---|---|
-| 🔍 Enterprise RAG Knowledge Assistant | RAG · Embeddings · LLM | 🟣 |
-| 🤟 HANA — AI Voice & ISL Learning Companion | MediaPipe · OpenCV | 🟣 |
+| 🔍 Enterprise RAG Knowledge Assistant | RAG · Embeddings · LLM | 🟢 |
+| 🤟 HANA — AI Voice & ISL Learning Companion | MediaPipe · OpenCV | 🟢 |
 | 💬 KUMARI — AI Virtual Companion | Gemini · OpenAI · Memory | 🟣 |
 | 🚦 Nagpur Traffic AI | React · AI/ML | 🟢 |
 | 🎧 AIVOA — AI Complaint Management | FastAPI · AI | 🟢 |
