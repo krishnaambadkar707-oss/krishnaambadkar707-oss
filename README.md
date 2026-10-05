@@ -120,7 +120,7 @@
 
 🚀<br>
 <b>Deployer</b><br>
-<sub>6 Deployed Apps</sub>
+<sub>8 Deployed Apps</sub>
 
 </td>
 </tr>
