@@ -68,7 +68,7 @@
 <text x="278" y="556">Repos</text><text x="404" y="556">Deployed Apps</text><text x="522" y="556">CGPA</text><text x="643" y="556">Hackathons</text>
 </g>
 <g class="m b" font-size="16" fill="#e2b8ff" text-anchor="middle">
-<text x="266" y="581">12+</text><text x="385" y="581">6+</text><text x="504" y="581" fill="#f8c36a">8.55+</text><text x="623" y="581">1</text>
+<text x="266" y="581">12+</text><text x="385" y="581">8+</text><text x="504" y="581" fill="#f8c36a">8.55+</text><text x="623" y="581">1</text>
 </g>
 <circle cx="250" cy="553" r="4" fill="#fb923c"/>
 <rect x="342" y="549" width="8" height="8" rx="2" fill="#5bb0f5"/>
